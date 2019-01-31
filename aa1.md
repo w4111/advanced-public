@@ -137,9 +137,21 @@ Now edit `Limit.__iter__()` so that if an offset is specified, the execution eng
 The SQL specs state that LIMIT and OFFSET cannot be negative.  Please make sure that if the OFFSET is negative, that you raise an exception (of any kind).
 
 
-### Unit Tests
+### Running helper scripts
 
-Copy `test_offset.py` into the `databass/src/engine/` folder and then run it.  All the tests should pass.  Take a look at the file to see what we are testing.   Feel free to add additional tests that we may not have included.  Our autograder contains a more complete set of test cases that we will evaluate your submission with.
+You can run some other helper scripts in the `databass/` folder:
+
+    # python -m databass.<filename>
+    python -m databass.parse --help
+
+### Run Tests
+
+To run tests, use the `nose` python test framework in by specifying which tests in the `test/` directory to run (in the [databass-public repo(https://github.com/w4111/databass-public/blob/master/README.md):
+
+    nosetests test/aa1.py
+
+    # run all tests
+    nosetests test/*.py
 
 ### Submission Instructions
 
