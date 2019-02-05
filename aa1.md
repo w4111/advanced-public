@@ -162,4 +162,7 @@ Run the submission script `submit.py` to package and zip your file.  It will ask
 
         python submit.py --help
 
-Both partners should submit on their Canvas accounts to AA1.
+
+Your group should submit one copy of the zip file to [the following dropbox link](https://www.dropbox.com/request/VJtAUpk97fcBT6u8bw0K)
+
+We will accept the latest submission before the deadline.
