@@ -1,7 +1,7 @@
 ## AA2: Query Compilation
 
 * Released: 02/14
-* Due: 03/07 10AM
+* Due: 03/12 10AM
 * Value: 3.75% of your grade
 * Max team of 2
 
