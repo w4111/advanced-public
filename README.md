@@ -5,6 +5,6 @@ The series of advanced assignments will ask you to write programs or edit a simp
 You will recieve extra credit equivalent to one homework assignment.  AA4 is worth more because it's more involved.
 
 * [AA1: Implement OFFSET in DataBass](./aa1.md)
-* [AA2: Query Compilation](./databass/compile.md)
-* [AA3: Fun with Window Functions](./window.md)
-* [AA4: Join Optimization](./databass/join.md)
+* [AA2: Query Compilation](./aa2.md)
+* AA3: Fun with Window Functions
+* AA4: Join Optimization
