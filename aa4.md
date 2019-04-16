@@ -8,7 +8,7 @@
 * Value: 5% of your grade
 * Max team of 2
 
-This assignment is part of the [DataBass Series of Advanced Assignment](./).  Take a look at the [README](./) in this directory to get an overview of the system and how to set it up.  Then read these instructions.  Since these advanced assignments are new and experimental, please be patient with us and [ask any questions on Piazza](https://piazza.com/class/jgwnwiy186d6pu).
+This assignment is part of the [DataBass Series of Advanced Assignment](https://github.com/w4111/databass-public).  Take a look at the [README](./) in this directory to get an overview of the system and how to set it up.  Then read these instructions.  Since these advanced assignments are new and experimental, please be patient with us and [ask any questions on Piazza](https://piazza.com/class/jgwnwiy186d6pu).
 
 In this assignment, you will use simple statistics to implement a simple version of the Selinger join optimizer to determine the join ordering for multi-table joins.
 To do so, take a look at `optimizer.py`.  The class performs a single optimization, which is to replace the N-way `From` operator with a join tree that can actually be executed.
