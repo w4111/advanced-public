@@ -7,4 +7,4 @@ You will recieve extra credit equivalent to one homework assignment.  AA4 is wor
 * [AA1: Implement OFFSET in DataBass](./aa1.md)
 * [AA2: Query Compilation](./databass/compile.md)
 * [AA3: Fun with Window Functions](./window.md)
-* [AA4: Join Optimization](./databass/join.md)
+* [AA4: Join Optimization](./aa4.md)
