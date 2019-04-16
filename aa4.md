@@ -97,7 +97,7 @@ To do so, first implement `SelingerOpt.best_initial_join()`, which identifies th
 
 ### Part 5: Checking
 
-Go to the root of your databass codebase repository. Run `PYTHONPATH=. python test/aa4.py`. The group truth implementation of all the three test in aa4.py cost about 1.4s. If your implementation is much slower than the ground truth implementaion, you will lose partial of the credits. 
+Go to the root of your databass codebase repository. Run `PYTHONPATH=. python test/aa4.py`. The group truth implementation of all the three test in aa4.py cost about 1.4s. If your implementation is much slower(let say 2x slower) than the ground truth implementaion, you will lose partial credits. 
 
 
 ### Submission Instructions
