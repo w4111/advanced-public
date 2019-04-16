@@ -97,7 +97,8 @@ To do so, first implement `SelingerOpt.best_initial_join()`, which identifies th
 
 ### Part 5: Checking
 
-Go to the root of your databass codebase repository. Run `PYTHONPATH=. python test/aa4.py` and compare your printed join plan to the ones in the test case comments.
+Go to the root of your databass codebase repository. Run `PYTHONPATH=. python test/aa4.py`.
+
 
 ### Submission Instructions
 
